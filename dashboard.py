@@ -1,6 +1,4 @@
 import streamlit as st
-from dotenv import load_dotenv
-import os
 import mysql.connector
 
 # 1. Inject custom CSS to style the Delete button
